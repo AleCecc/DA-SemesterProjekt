@@ -1,0 +1,151 @@
+﻿web-scraper-order,web-scraper-start-url,brand_raw,year_raw,km_raw,ps_raw,place_raw
+1670677435-91,https://www.autolina.ch/carList?region=ZHpn=10.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677435-92,https://www.autolina.ch/carList?region=ZHpn=10.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677435-93,https://www.autolina.ch/carList?region=ZHpn=10.,VW,2018,43'000,150,8610 Uster / ZH
+1670677435-94,https://www.autolina.ch/carList?region=ZHpn=10.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677435-95,https://www.autolina.ch/carList?region=ZHpn=10.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677435-96,https://www.autolina.ch/carList?region=ZHpn=10.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677435-97,https://www.autolina.ch/carList?region=ZHpn=10.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677435-98,https://www.autolina.ch/carList?region=ZHpn=10.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677435-99,https://www.autolina.ch/carList?region=ZHpn=10.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677435-100,https://www.autolina.ch/carList?region=ZHpn=10.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677435-101,https://www.autolina.ch/carList?region=ZHpn=10.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677435-102,https://www.autolina.ch/carList?region=ZHpn=10.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677435-103,https://www.autolina.ch/carList?region=ZHpn=10.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677435-104,https://www.autolina.ch/carList?region=ZHpn=10.,TESLA,2015,138'000,387,5312 Döttingen
+1670677435-105,https://www.autolina.ch/carList?region=ZHpn=10.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677439-106,https://www.autolina.ch/carList?region=ZHpn=9.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677439-107,https://www.autolina.ch/carList?region=ZHpn=9.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677439-108,https://www.autolina.ch/carList?region=ZHpn=9.,VW,2018,43'000,150,8610 Uster / ZH
+1670677439-109,https://www.autolina.ch/carList?region=ZHpn=9.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677439-110,https://www.autolina.ch/carList?region=ZHpn=9.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677439-111,https://www.autolina.ch/carList?region=ZHpn=9.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677439-112,https://www.autolina.ch/carList?region=ZHpn=9.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677439-113,https://www.autolina.ch/carList?region=ZHpn=9.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677439-114,https://www.autolina.ch/carList?region=ZHpn=9.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677439-115,https://www.autolina.ch/carList?region=ZHpn=9.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677439-116,https://www.autolina.ch/carList?region=ZHpn=9.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677439-117,https://www.autolina.ch/carList?region=ZHpn=9.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677439-118,https://www.autolina.ch/carList?region=ZHpn=9.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677439-119,https://www.autolina.ch/carList?region=ZHpn=9.,TESLA,2015,138'000,387,5312 Döttingen
+1670677439-120,https://www.autolina.ch/carList?region=ZHpn=9.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677443-121,https://www.autolina.ch/carList?region=ZHpn=8.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677443-122,https://www.autolina.ch/carList?region=ZHpn=8.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677443-123,https://www.autolina.ch/carList?region=ZHpn=8.,VW,2018,43'000,150,8610 Uster / ZH
+1670677443-124,https://www.autolina.ch/carList?region=ZHpn=8.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677443-125,https://www.autolina.ch/carList?region=ZHpn=8.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677443-126,https://www.autolina.ch/carList?region=ZHpn=8.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677443-127,https://www.autolina.ch/carList?region=ZHpn=8.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677443-128,https://www.autolina.ch/carList?region=ZHpn=8.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677443-129,https://www.autolina.ch/carList?region=ZHpn=8.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677443-130,https://www.autolina.ch/carList?region=ZHpn=8.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677443-131,https://www.autolina.ch/carList?region=ZHpn=8.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677443-132,https://www.autolina.ch/carList?region=ZHpn=8.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677443-133,https://www.autolina.ch/carList?region=ZHpn=8.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677443-134,https://www.autolina.ch/carList?region=ZHpn=8.,TESLA,2015,138'000,387,5312 Döttingen
+1670677443-135,https://www.autolina.ch/carList?region=ZHpn=8.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677447-136,https://www.autolina.ch/carList?region=ZHpn=7.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677447-137,https://www.autolina.ch/carList?region=ZHpn=7.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677447-138,https://www.autolina.ch/carList?region=ZHpn=7.,VW,2018,43'000,150,8610 Uster / ZH
+1670677447-139,https://www.autolina.ch/carList?region=ZHpn=7.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677447-140,https://www.autolina.ch/carList?region=ZHpn=7.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677447-141,https://www.autolina.ch/carList?region=ZHpn=7.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677447-142,https://www.autolina.ch/carList?region=ZHpn=7.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677447-143,https://www.autolina.ch/carList?region=ZHpn=7.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677447-144,https://www.autolina.ch/carList?region=ZHpn=7.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677447-145,https://www.autolina.ch/carList?region=ZHpn=7.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677447-146,https://www.autolina.ch/carList?region=ZHpn=7.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677447-147,https://www.autolina.ch/carList?region=ZHpn=7.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677447-148,https://www.autolina.ch/carList?region=ZHpn=7.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677447-149,https://www.autolina.ch/carList?region=ZHpn=7.,TESLA,2015,138'000,387,5312 Döttingen
+1670677447-150,https://www.autolina.ch/carList?region=ZHpn=7.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677452-151,https://www.autolina.ch/carList?region=ZHpn=6.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677452-152,https://www.autolina.ch/carList?region=ZHpn=6.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677452-153,https://www.autolina.ch/carList?region=ZHpn=6.,VW,2018,43'000,150,8610 Uster / ZH
+1670677452-154,https://www.autolina.ch/carList?region=ZHpn=6.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677452-155,https://www.autolina.ch/carList?region=ZHpn=6.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677452-156,https://www.autolina.ch/carList?region=ZHpn=6.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677452-157,https://www.autolina.ch/carList?region=ZHpn=6.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677452-158,https://www.autolina.ch/carList?region=ZHpn=6.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677452-159,https://www.autolina.ch/carList?region=ZHpn=6.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677452-160,https://www.autolina.ch/carList?region=ZHpn=6.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677452-161,https://www.autolina.ch/carList?region=ZHpn=6.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677452-162,https://www.autolina.ch/carList?region=ZHpn=6.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677452-163,https://www.autolina.ch/carList?region=ZHpn=6.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677452-164,https://www.autolina.ch/carList?region=ZHpn=6.,TESLA,2015,138'000,387,5312 Döttingen
+1670677452-165,https://www.autolina.ch/carList?region=ZHpn=6.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677456-166,https://www.autolina.ch/carList?region=ZHpn=5.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677456-167,https://www.autolina.ch/carList?region=ZHpn=5.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677456-168,https://www.autolina.ch/carList?region=ZHpn=5.,VW,2018,43'000,150,8610 Uster / ZH
+1670677456-169,https://www.autolina.ch/carList?region=ZHpn=5.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677456-170,https://www.autolina.ch/carList?region=ZHpn=5.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677456-171,https://www.autolina.ch/carList?region=ZHpn=5.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677456-172,https://www.autolina.ch/carList?region=ZHpn=5.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677456-173,https://www.autolina.ch/carList?region=ZHpn=5.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677456-174,https://www.autolina.ch/carList?region=ZHpn=5.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677456-175,https://www.autolina.ch/carList?region=ZHpn=5.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677456-176,https://www.autolina.ch/carList?region=ZHpn=5.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677456-177,https://www.autolina.ch/carList?region=ZHpn=5.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677456-178,https://www.autolina.ch/carList?region=ZHpn=5.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677456-179,https://www.autolina.ch/carList?region=ZHpn=5.,TESLA,2015,138'000,387,5312 Döttingen
+1670677456-180,https://www.autolina.ch/carList?region=ZHpn=5.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677460-181,https://www.autolina.ch/carList?region=ZHpn=4.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677460-182,https://www.autolina.ch/carList?region=ZHpn=4.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677460-183,https://www.autolina.ch/carList?region=ZHpn=4.,VW,2018,43'000,150,8610 Uster / ZH
+1670677460-184,https://www.autolina.ch/carList?region=ZHpn=4.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677460-185,https://www.autolina.ch/carList?region=ZHpn=4.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677460-186,https://www.autolina.ch/carList?region=ZHpn=4.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677460-187,https://www.autolina.ch/carList?region=ZHpn=4.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677460-188,https://www.autolina.ch/carList?region=ZHpn=4.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677460-189,https://www.autolina.ch/carList?region=ZHpn=4.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677460-190,https://www.autolina.ch/carList?region=ZHpn=4.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677460-191,https://www.autolina.ch/carList?region=ZHpn=4.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677460-192,https://www.autolina.ch/carList?region=ZHpn=4.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677460-193,https://www.autolina.ch/carList?region=ZHpn=4.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677460-194,https://www.autolina.ch/carList?region=ZHpn=4.,TESLA,2015,138'000,387,5312 Döttingen
+1670677460-195,https://www.autolina.ch/carList?region=ZHpn=4.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677464-196,https://www.autolina.ch/carList?region=ZHpn=3.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677464-197,https://www.autolina.ch/carList?region=ZHpn=3.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677464-198,https://www.autolina.ch/carList?region=ZHpn=3.,VW,2018,43'000,150,8610 Uster / ZH
+1670677464-199,https://www.autolina.ch/carList?region=ZHpn=3.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677464-200,https://www.autolina.ch/carList?region=ZHpn=3.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677464-201,https://www.autolina.ch/carList?region=ZHpn=3.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677464-202,https://www.autolina.ch/carList?region=ZHpn=3.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677464-203,https://www.autolina.ch/carList?region=ZHpn=3.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677464-204,https://www.autolina.ch/carList?region=ZHpn=3.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677464-205,https://www.autolina.ch/carList?region=ZHpn=3.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677464-206,https://www.autolina.ch/carList?region=ZHpn=3.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677464-207,https://www.autolina.ch/carList?region=ZHpn=3.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677464-208,https://www.autolina.ch/carList?region=ZHpn=3.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677464-209,https://www.autolina.ch/carList?region=ZHpn=3.,TESLA,2015,138'000,387,5312 Döttingen
+1670677464-210,https://www.autolina.ch/carList?region=ZHpn=3.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677468-211,https://www.autolina.ch/carList?region=ZHpn=2.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677468-212,https://www.autolina.ch/carList?region=ZHpn=2.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677468-213,https://www.autolina.ch/carList?region=ZHpn=2.,VW,2018,43'000,150,8610 Uster / ZH
+1670677468-214,https://www.autolina.ch/carList?region=ZHpn=2.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677468-215,https://www.autolina.ch/carList?region=ZHpn=2.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677468-216,https://www.autolina.ch/carList?region=ZHpn=2.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677468-217,https://www.autolina.ch/carList?region=ZHpn=2.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677468-218,https://www.autolina.ch/carList?region=ZHpn=2.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677468-219,https://www.autolina.ch/carList?region=ZHpn=2.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677468-220,https://www.autolina.ch/carList?region=ZHpn=2.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677468-221,https://www.autolina.ch/carList?region=ZHpn=2.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677468-222,https://www.autolina.ch/carList?region=ZHpn=2.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677468-223,https://www.autolina.ch/carList?region=ZHpn=2.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677468-224,https://www.autolina.ch/carList?region=ZHpn=2.,TESLA,2015,138'000,387,5312 Döttingen
+1670677468-225,https://www.autolina.ch/carList?region=ZHpn=2.,VW,2015,128'000,230,562 Bremgarten AG / AG
+1670677473-226,https://www.autolina.ch/carList?region=ZHpn=1.,FORD,2021,11'510,185,8404 Winterthur / ZH
+1670677473-227,https://www.autolina.ch/carList?region=ZHpn=1.,SKODA,2018,52'000,280,4114 Hofstetten / SO
+1670677473-228,https://www.autolina.ch/carList?region=ZHpn=1.,VW,2018,43'000,150,8610 Uster / ZH
+1670677473-229,https://www.autolina.ch/carList?region=ZHpn=1.,VW,2010,118'000,240,8180 Bülach / ZH
+1670677473-230,https://www.autolina.ch/carList?region=ZHpn=1.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
+1670677473-231,https://www.autolina.ch/carList?region=ZHpn=1.,KIA,2015,57'000,85,9436 Balgach / SG
+1670677473-232,https://www.autolina.ch/carList?region=ZHpn=1.,AUDI,2019,38'500,347,5705 Hallwil / AG
+1670677473-233,https://www.autolina.ch/carList?region=ZHpn=1.,FORD,2019,72'000,200,4719 Ramiswil / SO
+1670677473-234,https://www.autolina.ch/carList?region=ZHpn=1.,RENAULT,2022,30'000,136,8215 Hallau / SH
+1670677473-235,https://www.autolina.ch/carList?region=ZHpn=1.,BMW,2014,178'000,190,1510 Moudon / VD
+1670677473-236,https://www.autolina.ch/carList?region=ZHpn=1.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
+1670677473-237,https://www.autolina.ch/carList?region=ZHpn=1.,AUDI,2017,83'000,180,1066 Epalinges / VD
+1670677473-238,https://www.autolina.ch/carList?region=ZHpn=1.,AUDI,2018,72'500,204,1845 Noville / VD
+1670677473-239,https://www.autolina.ch/carList?region=ZHpn=1.,TESLA,2015,138'000,387,5312 Döttingen
+1670677473-240,https://www.autolina.ch/carList?region=ZHpn=1.,VW,2015,128'000,230,562 Bremgarten AG / AG
