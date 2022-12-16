@@ -1,151 +1,151 @@
 ﻿web-scraper-order,web-scraper-start-url,brand_raw,year_raw,km_raw,ps_raw,place_raw
-1670677435-91,https://www.autolina.ch/carList?region=ZHpn=10.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677435-92,https://www.autolina.ch/carList?region=ZHpn=10.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677435-93,https://www.autolina.ch/carList?region=ZHpn=10.,VW,2018,43'000,150,8610 Uster / ZH
-1670677435-94,https://www.autolina.ch/carList?region=ZHpn=10.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677435-95,https://www.autolina.ch/carList?region=ZHpn=10.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677435-96,https://www.autolina.ch/carList?region=ZHpn=10.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677435-97,https://www.autolina.ch/carList?region=ZHpn=10.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677435-98,https://www.autolina.ch/carList?region=ZHpn=10.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677435-99,https://www.autolina.ch/carList?region=ZHpn=10.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677435-100,https://www.autolina.ch/carList?region=ZHpn=10.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677435-101,https://www.autolina.ch/carList?region=ZHpn=10.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677435-102,https://www.autolina.ch/carList?region=ZHpn=10.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677435-103,https://www.autolina.ch/carList?region=ZHpn=10.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677435-104,https://www.autolina.ch/carList?region=ZHpn=10.,TESLA,2015,138'000,387,5312 Döttingen
-1670677435-105,https://www.autolina.ch/carList?region=ZHpn=10.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677439-106,https://www.autolina.ch/carList?region=ZHpn=9.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677439-107,https://www.autolina.ch/carList?region=ZHpn=9.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677439-108,https://www.autolina.ch/carList?region=ZHpn=9.,VW,2018,43'000,150,8610 Uster / ZH
-1670677439-109,https://www.autolina.ch/carList?region=ZHpn=9.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677439-110,https://www.autolina.ch/carList?region=ZHpn=9.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677439-111,https://www.autolina.ch/carList?region=ZHpn=9.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677439-112,https://www.autolina.ch/carList?region=ZHpn=9.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677439-113,https://www.autolina.ch/carList?region=ZHpn=9.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677439-114,https://www.autolina.ch/carList?region=ZHpn=9.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677439-115,https://www.autolina.ch/carList?region=ZHpn=9.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677439-116,https://www.autolina.ch/carList?region=ZHpn=9.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677439-117,https://www.autolina.ch/carList?region=ZHpn=9.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677439-118,https://www.autolina.ch/carList?region=ZHpn=9.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677439-119,https://www.autolina.ch/carList?region=ZHpn=9.,TESLA,2015,138'000,387,5312 Döttingen
-1670677439-120,https://www.autolina.ch/carList?region=ZHpn=9.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677443-121,https://www.autolina.ch/carList?region=ZHpn=8.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677443-122,https://www.autolina.ch/carList?region=ZHpn=8.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677443-123,https://www.autolina.ch/carList?region=ZHpn=8.,VW,2018,43'000,150,8610 Uster / ZH
-1670677443-124,https://www.autolina.ch/carList?region=ZHpn=8.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677443-125,https://www.autolina.ch/carList?region=ZHpn=8.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677443-126,https://www.autolina.ch/carList?region=ZHpn=8.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677443-127,https://www.autolina.ch/carList?region=ZHpn=8.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677443-128,https://www.autolina.ch/carList?region=ZHpn=8.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677443-129,https://www.autolina.ch/carList?region=ZHpn=8.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677443-130,https://www.autolina.ch/carList?region=ZHpn=8.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677443-131,https://www.autolina.ch/carList?region=ZHpn=8.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677443-132,https://www.autolina.ch/carList?region=ZHpn=8.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677443-133,https://www.autolina.ch/carList?region=ZHpn=8.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677443-134,https://www.autolina.ch/carList?region=ZHpn=8.,TESLA,2015,138'000,387,5312 Döttingen
-1670677443-135,https://www.autolina.ch/carList?region=ZHpn=8.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677447-136,https://www.autolina.ch/carList?region=ZHpn=7.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677447-137,https://www.autolina.ch/carList?region=ZHpn=7.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677447-138,https://www.autolina.ch/carList?region=ZHpn=7.,VW,2018,43'000,150,8610 Uster / ZH
-1670677447-139,https://www.autolina.ch/carList?region=ZHpn=7.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677447-140,https://www.autolina.ch/carList?region=ZHpn=7.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677447-141,https://www.autolina.ch/carList?region=ZHpn=7.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677447-142,https://www.autolina.ch/carList?region=ZHpn=7.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677447-143,https://www.autolina.ch/carList?region=ZHpn=7.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677447-144,https://www.autolina.ch/carList?region=ZHpn=7.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677447-145,https://www.autolina.ch/carList?region=ZHpn=7.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677447-146,https://www.autolina.ch/carList?region=ZHpn=7.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677447-147,https://www.autolina.ch/carList?region=ZHpn=7.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677447-148,https://www.autolina.ch/carList?region=ZHpn=7.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677447-149,https://www.autolina.ch/carList?region=ZHpn=7.,TESLA,2015,138'000,387,5312 Döttingen
-1670677447-150,https://www.autolina.ch/carList?region=ZHpn=7.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677452-151,https://www.autolina.ch/carList?region=ZHpn=6.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677452-152,https://www.autolina.ch/carList?region=ZHpn=6.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677452-153,https://www.autolina.ch/carList?region=ZHpn=6.,VW,2018,43'000,150,8610 Uster / ZH
-1670677452-154,https://www.autolina.ch/carList?region=ZHpn=6.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677452-155,https://www.autolina.ch/carList?region=ZHpn=6.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677452-156,https://www.autolina.ch/carList?region=ZHpn=6.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677452-157,https://www.autolina.ch/carList?region=ZHpn=6.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677452-158,https://www.autolina.ch/carList?region=ZHpn=6.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677452-159,https://www.autolina.ch/carList?region=ZHpn=6.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677452-160,https://www.autolina.ch/carList?region=ZHpn=6.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677452-161,https://www.autolina.ch/carList?region=ZHpn=6.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677452-162,https://www.autolina.ch/carList?region=ZHpn=6.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677452-163,https://www.autolina.ch/carList?region=ZHpn=6.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677452-164,https://www.autolina.ch/carList?region=ZHpn=6.,TESLA,2015,138'000,387,5312 Döttingen
-1670677452-165,https://www.autolina.ch/carList?region=ZHpn=6.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677456-166,https://www.autolina.ch/carList?region=ZHpn=5.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677456-167,https://www.autolina.ch/carList?region=ZHpn=5.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677456-168,https://www.autolina.ch/carList?region=ZHpn=5.,VW,2018,43'000,150,8610 Uster / ZH
-1670677456-169,https://www.autolina.ch/carList?region=ZHpn=5.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677456-170,https://www.autolina.ch/carList?region=ZHpn=5.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677456-171,https://www.autolina.ch/carList?region=ZHpn=5.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677456-172,https://www.autolina.ch/carList?region=ZHpn=5.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677456-173,https://www.autolina.ch/carList?region=ZHpn=5.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677456-174,https://www.autolina.ch/carList?region=ZHpn=5.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677456-175,https://www.autolina.ch/carList?region=ZHpn=5.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677456-176,https://www.autolina.ch/carList?region=ZHpn=5.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677456-177,https://www.autolina.ch/carList?region=ZHpn=5.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677456-178,https://www.autolina.ch/carList?region=ZHpn=5.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677456-179,https://www.autolina.ch/carList?region=ZHpn=5.,TESLA,2015,138'000,387,5312 Döttingen
-1670677456-180,https://www.autolina.ch/carList?region=ZHpn=5.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677460-181,https://www.autolina.ch/carList?region=ZHpn=4.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677460-182,https://www.autolina.ch/carList?region=ZHpn=4.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677460-183,https://www.autolina.ch/carList?region=ZHpn=4.,VW,2018,43'000,150,8610 Uster / ZH
-1670677460-184,https://www.autolina.ch/carList?region=ZHpn=4.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677460-185,https://www.autolina.ch/carList?region=ZHpn=4.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677460-186,https://www.autolina.ch/carList?region=ZHpn=4.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677460-187,https://www.autolina.ch/carList?region=ZHpn=4.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677460-188,https://www.autolina.ch/carList?region=ZHpn=4.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677460-189,https://www.autolina.ch/carList?region=ZHpn=4.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677460-190,https://www.autolina.ch/carList?region=ZHpn=4.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677460-191,https://www.autolina.ch/carList?region=ZHpn=4.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677460-192,https://www.autolina.ch/carList?region=ZHpn=4.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677460-193,https://www.autolina.ch/carList?region=ZHpn=4.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677460-194,https://www.autolina.ch/carList?region=ZHpn=4.,TESLA,2015,138'000,387,5312 Döttingen
-1670677460-195,https://www.autolina.ch/carList?region=ZHpn=4.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677464-196,https://www.autolina.ch/carList?region=ZHpn=3.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677464-197,https://www.autolina.ch/carList?region=ZHpn=3.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677464-198,https://www.autolina.ch/carList?region=ZHpn=3.,VW,2018,43'000,150,8610 Uster / ZH
-1670677464-199,https://www.autolina.ch/carList?region=ZHpn=3.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677464-200,https://www.autolina.ch/carList?region=ZHpn=3.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677464-201,https://www.autolina.ch/carList?region=ZHpn=3.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677464-202,https://www.autolina.ch/carList?region=ZHpn=3.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677464-203,https://www.autolina.ch/carList?region=ZHpn=3.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677464-204,https://www.autolina.ch/carList?region=ZHpn=3.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677464-205,https://www.autolina.ch/carList?region=ZHpn=3.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677464-206,https://www.autolina.ch/carList?region=ZHpn=3.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677464-207,https://www.autolina.ch/carList?region=ZHpn=3.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677464-208,https://www.autolina.ch/carList?region=ZHpn=3.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677464-209,https://www.autolina.ch/carList?region=ZHpn=3.,TESLA,2015,138'000,387,5312 Döttingen
-1670677464-210,https://www.autolina.ch/carList?region=ZHpn=3.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677468-211,https://www.autolina.ch/carList?region=ZHpn=2.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677468-212,https://www.autolina.ch/carList?region=ZHpn=2.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677468-213,https://www.autolina.ch/carList?region=ZHpn=2.,VW,2018,43'000,150,8610 Uster / ZH
-1670677468-214,https://www.autolina.ch/carList?region=ZHpn=2.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677468-215,https://www.autolina.ch/carList?region=ZHpn=2.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677468-216,https://www.autolina.ch/carList?region=ZHpn=2.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677468-217,https://www.autolina.ch/carList?region=ZHpn=2.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677468-218,https://www.autolina.ch/carList?region=ZHpn=2.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677468-219,https://www.autolina.ch/carList?region=ZHpn=2.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677468-220,https://www.autolina.ch/carList?region=ZHpn=2.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677468-221,https://www.autolina.ch/carList?region=ZHpn=2.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677468-222,https://www.autolina.ch/carList?region=ZHpn=2.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677468-223,https://www.autolina.ch/carList?region=ZHpn=2.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677468-224,https://www.autolina.ch/carList?region=ZHpn=2.,TESLA,2015,138'000,387,5312 Döttingen
-1670677468-225,https://www.autolina.ch/carList?region=ZHpn=2.,VW,2015,128'000,230,562 Bremgarten AG / AG
-1670677473-226,https://www.autolina.ch/carList?region=ZHpn=1.,FORD,2021,11'510,185,8404 Winterthur / ZH
-1670677473-227,https://www.autolina.ch/carList?region=ZHpn=1.,SKODA,2018,52'000,280,4114 Hofstetten / SO
-1670677473-228,https://www.autolina.ch/carList?region=ZHpn=1.,VW,2018,43'000,150,8610 Uster / ZH
-1670677473-229,https://www.autolina.ch/carList?region=ZHpn=1.,VW,2010,118'000,240,8180 Bülach / ZH
-1670677473-230,https://www.autolina.ch/carList?region=ZHpn=1.,FORD,2011,202'000,85,8165 Schöfflisdorf / ZH
-1670677473-231,https://www.autolina.ch/carList?region=ZHpn=1.,KIA,2015,57'000,85,9436 Balgach / SG
-1670677473-232,https://www.autolina.ch/carList?region=ZHpn=1.,AUDI,2019,38'500,347,5705 Hallwil / AG
-1670677473-233,https://www.autolina.ch/carList?region=ZHpn=1.,FORD,2019,72'000,200,4719 Ramiswil / SO
-1670677473-234,https://www.autolina.ch/carList?region=ZHpn=1.,RENAULT,2022,30'000,136,8215 Hallau / SH
-1670677473-235,https://www.autolina.ch/carList?region=ZHpn=1.,BMW,2014,178'000,190,1510 Moudon / VD
-1670677473-236,https://www.autolina.ch/carList?region=ZHpn=1.,MERCEDES-BENZ,2017,73'500,184,1028 Préverenges / VD
-1670677473-237,https://www.autolina.ch/carList?region=ZHpn=1.,AUDI,2017,83'000,180,1066 Epalinges / VD
-1670677473-238,https://www.autolina.ch/carList?region=ZHpn=1.,AUDI,2018,72'500,204,1845 Noville / VD
-1670677473-239,https://www.autolina.ch/carList?region=ZHpn=1.,TESLA,2015,138'000,387,5312 Döttingen
-1670677473-240,https://www.autolina.ch/carList?region=ZHpn=1.,VW,2015,128'000,230,562 Bremgarten AG / AG
+"1671221804-151","https://www.autolina.ch/carList/page/10?region=ZH","ALFA ROMEO","2015","2'300","241","8408 Winterthur / ZH"
+"1671221804-152","https://www.autolina.ch/carList/page/10?region=ZH","SKODA","2021","7'000","110","8712 Stäfa / ZH"
+"1671221804-153","https://www.autolina.ch/carList/page/10?region=ZH","ALFA ROMEO","2021","22'927","281","8408 Winterthur / ZH"
+"1671221804-154","https://www.autolina.ch/carList/page/10?region=ZH","ALFA ROMEO","2021","21'700","281","8408 Winterthur / ZH"
+"1671221804-155","https://www.autolina.ch/carList/page/10?region=ZH","ALFA ROMEO","2021","26'000","281","8408 Winterthur / ZH"
+"1671221804-156","https://www.autolina.ch/carList/page/10?region=ZH","RENAULT","2021","19'800","91","8152 Glattpark (Opfikon) / ZH"
+"1671221804-157","https://www.autolina.ch/carList/page/10?region=ZH","VW","2022","3'200","110","8304 Wallisellen / ZH"
+"1671221804-158","https://www.autolina.ch/carList/page/10?region=ZH","BMW","1988","197'850","129","8247 Flurlingen / ZH"
+"1671221804-159","https://www.autolina.ch/carList/page/10?region=ZH","LAND ROVER","2012","169'000","256","8196 Wil / ZH"
+"1671221804-160","https://www.autolina.ch/carList/page/10?region=ZH","RENAULT","2020","47'400","160","8152 Glattpark (Opfikon) / ZH"
+"1671221804-161","https://www.autolina.ch/carList/page/10?region=ZH","VW","2019","50'500","300","8048 Zürich / ZH"
+"1671221804-162","https://www.autolina.ch/carList/page/10?region=ZH","SKODA","2022","3'000","200","8712 Stäfa / ZH"
+"1671221804-163","https://www.autolina.ch/carList/page/10?region=ZH","SKODA","2022","3'000","190","8712 Stäfa / ZH"
+"1671221804-164","https://www.autolina.ch/carList/page/10?region=ZH","SKODA","2022","5'000","280","8712 Stäfa / ZH"
+"1671221804-165","https://www.autolina.ch/carList/page/10?region=ZH","VW","2021","9'000","319","8712 Stäfa / ZH"
+"1671221807-166","https://www.autolina.ch/carList/page/9?region=ZH","SKODA","2022","3'000","150","8712 Stäfa / ZH"
+"1671221807-167","https://www.autolina.ch/carList/page/9?region=ZH","RENAULT","2017","115'800","177","8152 Glattpark (Opfikon) / ZH"
+"1671221807-168","https://www.autolina.ch/carList/page/9?region=ZH","VW","2015","249'000","150","1203 Genève / ZH"
+"1671221807-169","https://www.autolina.ch/carList/page/9?region=ZH","AUDI","2010","120'000","350","3422 Kirchberg / ZH"
+"1671221807-170","https://www.autolina.ch/carList/page/9?region=ZH","PORSCHE","2009","111'500","295","8247 Flurlingen / ZH"
+"1671221807-171","https://www.autolina.ch/carList/page/9?region=ZH","BMW","2014","83'500","245","8706 Meilen / ZH"
+"1671221807-172","https://www.autolina.ch/carList/page/9?region=ZH","VW","2012","123'000","380","8103 Unterengstringen / ZH"
+"1671221807-173","https://www.autolina.ch/carList/page/9?region=ZH","FORD","1960","0","223","8488 Turbenthal / ZH"
+"1671221807-174","https://www.autolina.ch/carList/page/9?region=ZH","HONDA","2022","1'000","131","8424 Embrach / ZH"
+"1671221807-175","https://www.autolina.ch/carList/page/9?region=ZH","CITROEN","null","25","110","8424 Embrach / ZH"
+"1671221807-176","https://www.autolina.ch/carList/page/9?region=ZH","CITROEN","null","25","110","8424 Embrach / ZH"
+"1671221807-177","https://www.autolina.ch/carList/page/9?region=ZH","HONDA","null","25","184","8424 Embrach / ZH"
+"1671221807-178","https://www.autolina.ch/carList/page/9?region=ZH","PEUGEOT","2021","250","130","8424 Embrach / ZH"
+"1671221807-179","https://www.autolina.ch/carList/page/9?region=ZH","PEUGEOT","2022","100","136","8424 Embrach / ZH"
+"1671221807-180","https://www.autolina.ch/carList/page/9?region=ZH","ALFA ROMEO","2020","38'830","510","8408 Winterthur / ZH"
+"1671221810-181","https://www.autolina.ch/carList/page/8?region=ZH","AUDI","2016","102'000","190","8196 Wil / ZH"
+"1671221810-182","https://www.autolina.ch/carList/page/8?region=ZH","VW","2015","122'000","300","8545 Rickenbach / ZH"
+"1671221810-183","https://www.autolina.ch/carList/page/8?region=ZH","SKODA","2021","7'000","150","8712 Stäfa / ZH"
+"1671221810-184","https://www.autolina.ch/carList/page/8?region=ZH","AUDI","2021","9'800","204","8706 Feldmeilen / ZH"
+"1671221810-185","https://www.autolina.ch/carList/page/8?region=ZH","AUDI","2022","8'200","344","8706 Feldmeilen / ZH"
+"1671221810-186","https://www.autolina.ch/carList/page/8?region=ZH","AUDI","2021","13'200","245","8706 Feldmeilen / ZH"
+"1671221810-187","https://www.autolina.ch/carList/page/8?region=ZH","VW","2020","181'000","140","8196 Wil / ZH"
+"1671221810-188","https://www.autolina.ch/carList/page/8?region=ZH","NISSAN","2021","13'200","117","8152 Glattpark (Opfikon) / ZH"
+"1671221810-189","https://www.autolina.ch/carList/page/8?region=ZH","BMW","1997","181'000","193","8047 Zürich / ZH"
+"1671221810-190","https://www.autolina.ch/carList/page/8?region=ZH","NISSAN","2021","15'900","158","8152 Glattpark (Opfikon) / ZH"
+"1671221810-191","https://www.autolina.ch/carList/page/8?region=ZH","SKODA","2020","60'000","239","8712 Stäfa / ZH"
+"1671221810-192","https://www.autolina.ch/carList/page/8?region=ZH","RENAULT","2021","9'700","185","8152 Glattpark (Opfikon) / ZH"
+"1671221810-193","https://www.autolina.ch/carList/page/8?region=ZH","ALFA ROMEO","null","160","null","8408 Winterthur / ZH"
+"1671221810-194","https://www.autolina.ch/carList/page/8?region=ZH","ALFA ROMEO","null","161","null","8408 Winterthur / ZH"
+"1671221810-195","https://www.autolina.ch/carList/page/8?region=ZH","FIAT","2022","5","71","8408 Winterthur / ZH"
+"1671221813-196","https://www.autolina.ch/carList/page/7?region=ZH","ALFA ROMEO","null","161","null","8408 Winterthur / ZH"
+"1671221813-197","https://www.autolina.ch/carList/page/7?region=ZH","FIAT","2021","15'000","70","8408 Winterthur / ZH"
+"1671221813-198","https://www.autolina.ch/carList/page/7?region=ZH","VOLVO","2019","40'500","326","8055 Zürich / ZH"
+"1671221813-199","https://www.autolina.ch/carList/page/7?region=ZH","AUDI","2021","7'600","265","8706 Feldmeilen / ZH"
+"1671221813-200","https://www.autolina.ch/carList/page/7?region=ZH","KIA","2019","115'689","204","8122 Binz / ZH"
+"1671221813-201","https://www.autolina.ch/carList/page/7?region=ZH","MINI","2014","39'700","211","8636 Wald / ZH"
+"1671221813-202","https://www.autolina.ch/carList/page/7?region=ZH","AUDI","2004","245'000","274","8412 Hünikon / ZH"
+"1671221813-203","https://www.autolina.ch/carList/page/7?region=ZH","MERCEDES-BENZ","2019","31'336","306","8155 Niederhasli / ZH"
+"1671221813-204","https://www.autolina.ch/carList/page/7?region=ZH","BMW","2021","27'500","150","8712 Stäfa / ZH"
+"1671221813-205","https://www.autolina.ch/carList/page/7?region=ZH","HYUNDAI","2019","28'900","67","8304 Wallisellen / ZH"
+"1671221813-206","https://www.autolina.ch/carList/page/7?region=ZH","RENAULT","2022","200","82","8152 Glattpark (Opfikon) / ZH"
+"1671221813-207","https://www.autolina.ch/carList/page/7?region=ZH","AUDI","2021","24'500","344","8052 Zürich / ZH"
+"1671221813-208","https://www.autolina.ch/carList/page/7?region=ZH","JAGUAR","1999","196'500","284","8006 Zürich / ZH"
+"1671221813-209","https://www.autolina.ch/carList/page/7?region=ZH","MERCEDES-BENZ","2011","80'300","204","8102 Oberengstringen / ZH"
+"1671221813-210","https://www.autolina.ch/carList/page/7?region=ZH","BMW","2021","56'500","510","8712 Stäfa / ZH"
+"1671221817-211","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","2011","167'900","235","8340 Hinwil / ZH"
+"1671221817-212","https://www.autolina.ch/carList/page/6?region=ZH","MERCEDES-BENZ","2020","16'000","421","8712 Stäfa / ZH"
+"1671221817-213","https://www.autolina.ch/carList/page/6?region=ZH","MINI","2018","80'668","192","8053 Zürich / ZH"
+"1671221817-214","https://www.autolina.ch/carList/page/6?region=ZH","MERCEDES-BENZ","2013","99'600","163","8308 Illnau / ZH"
+"1671221817-215","https://www.autolina.ch/carList/page/6?region=ZH","MERCEDES-BENZ","2016","47'750","510","8600 Dübendorf / ZH"
+"1671221817-216","https://www.autolina.ch/carList/page/6?region=ZH","AUDI","2021","9'900","299","8706 Feldmeilen / ZH"
+"1671221817-217","https://www.autolina.ch/carList/page/6?region=ZH","MERCEDES-BENZ","2018","142'600","136","8114 Dänikon / ZH"
+"1671221817-218","https://www.autolina.ch/carList/page/6?region=ZH","MERCEDES-BENZ","2014","78'068","586","8408 Winterthur / ZH"
+"1671221817-219","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","2021","16'400","281","8408 Winterthur / ZH"
+"1671221817-220","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","null","161","null","8408 Winterthur / ZH"
+"1671221817-221","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","null","161","null","8408 Winterthur / ZH"
+"1671221817-222","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","null","160","null","8408 Winterthur / ZH"
+"1671221817-223","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","null","160","null","8408 Winterthur / ZH"
+"1671221817-224","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","2017","103'700","510","8408 Winterthur / ZH"
+"1671221817-225","https://www.autolina.ch/carList/page/6?region=ZH","ALFA ROMEO","null","161","null","8408 Winterthur / ZH"
+"1671221820-226","https://www.autolina.ch/carList/page/5?region=ZH","AUDI","2012","128'000","300","8820 Wädenswil / ZH"
+"1671221820-227","https://www.autolina.ch/carList/page/5?region=ZH","ALFA ROMEO","null","160","null","8408 Winterthur / ZH"
+"1671221820-228","https://www.autolina.ch/carList/page/5?region=ZH","ALFA ROMEO","2022","6'700","131","8408 Winterthur / ZH"
+"1671221820-229","https://www.autolina.ch/carList/page/5?region=ZH","FIAT","2022","5","131","8408 Winterthur / ZH"
+"1671221820-230","https://www.autolina.ch/carList/page/5?region=ZH","FIAT","null","131","null","8408 Winterthur / ZH"
+"1671221820-231","https://www.autolina.ch/carList/page/5?region=ZH","VW","2020","58'500","130","8196 Wil / ZH"
+"1671221820-232","https://www.autolina.ch/carList/page/5?region=ZH","FORD","2015","86'616","125","8424 Embrach / ZH"
+"1671221820-233","https://www.autolina.ch/carList/page/5?region=ZH","LEXUS","2011","49'091","249","8926 Kappel am Albis / ZH"
+"1671221820-234","https://www.autolina.ch/carList/page/5?region=ZH","BMW","2016","49'200","190","8542 Wiesendangen / ZH"
+"1671221820-235","https://www.autolina.ch/carList/page/5?region=ZH","OPEL","null","10","100","8247 Flurlingen / ZH"
+"1671221820-236","https://www.autolina.ch/carList/page/5?region=ZH","OPEL","null","95","100","8247 Flurlingen / ZH"
+"1671221820-237","https://www.autolina.ch/carList/page/5?region=ZH","CHEVROLET","2011","173'000","230","8166 Niederweningen / ZH"
+"1671221820-238","https://www.autolina.ch/carList/page/5?region=ZH","CHRYSLER","2018","44'000","300","8187 Weiach / ZH"
+"1671221820-239","https://www.autolina.ch/carList/page/5?region=ZH","BMW","2019","25'100","184","8152 Opfikon / ZH"
+"1671221820-240","https://www.autolina.ch/carList/page/5?region=ZH","MAZDA","2019","38'000","150","8304 Wallisellen / ZH"
+"1671221824-241","https://www.autolina.ch/carList/page/4?region=ZH","PEUGEOT","2016","131'700","110","8152 Glattpark (Opfikon) / ZH"
+"1671221824-242","https://www.autolina.ch/carList/page/4?region=ZH","RENAULT","2022","6'700","143","8152 Glattpark (Opfikon) / ZH"
+"1671221824-243","https://www.autolina.ch/carList/page/4?region=ZH","MERCEDES-BENZ","2016","136'700","136","8152 Glattpark (Opfikon) / ZH"
+"1671221824-244","https://www.autolina.ch/carList/page/4?region=ZH","MAZDA","2016","44'300","160","8408 Winterthur / ZH"
+"1671221824-245","https://www.autolina.ch/carList/page/4?region=ZH","AUDI","2022","2'500","204","8706 Feldmeilen / ZH"
+"1671221824-246","https://www.autolina.ch/carList/page/4?region=ZH","SMART","2015","42'800","71","8152 Glattpark (Opfikon) / ZH"
+"1671221824-247","https://www.autolina.ch/carList/page/4?region=ZH","NISSAN","2022","100","114","8152 Glattpark (Opfikon) / ZH"
+"1671221824-248","https://www.autolina.ch/carList/page/4?region=ZH","NISSAN","2022","50","92","8152 Glattpark (Opfikon) / ZH"
+"1671221824-249","https://www.autolina.ch/carList/page/4?region=ZH","VW","2021","50'900","150","8152 Glattpark (Opfikon) / ZH"
+"1671221824-250","https://www.autolina.ch/carList/page/4?region=ZH","FORD","2019","19'000","125","8472 Seuzach / ZH"
+"1671221824-251","https://www.autolina.ch/carList/page/4?region=ZH","DACIA","2021","26'000","91","8603 Schwerzenbach / ZH"
+"1671221824-252","https://www.autolina.ch/carList/page/4?region=ZH","SKODA","2022","10'000","204","8712 Stäfa / ZH"
+"1671221824-253","https://www.autolina.ch/carList/page/4?region=ZH","BMW","2016","85'614","258","8302 Kloten / ZH"
+"1671221824-254","https://www.autolina.ch/carList/page/4?region=ZH","RENAULT","2020","39'600","131","8152 Glattpark (Opfikon) / ZH"
+"1671221824-255","https://www.autolina.ch/carList/page/4?region=ZH","BMW","2014","116'000","381","8706 Meilen / ZH"
+"1671221828-256","https://www.autolina.ch/carList/page/3?region=ZH","AUDI","2022","2'500","400","8706 Feldmeilen / ZH"
+"1671221828-257","https://www.autolina.ch/carList/page/3?region=ZH","MORGAN","2009","22'500","367","6004 Luzern / ZH"
+"1671221828-258","https://www.autolina.ch/carList/page/3?region=ZH","KIA","2016","66'550","105","8424 Embrach / ZH"
+"1671221828-259","https://www.autolina.ch/carList/page/3?region=ZH","RENAULT","2022","100","140","8152 Glattpark (Opfikon) / ZH"
+"1671221828-260","https://www.autolina.ch/carList/page/3?region=ZH","AUDI","2010","215'000","239","8126 Zumikon / ZH"
+"1671221828-261","https://www.autolina.ch/carList/page/3?region=ZH","FIAT","2015","91'200","84","8424 Embrach / ZH"
+"1671221828-262","https://www.autolina.ch/carList/page/3?region=ZH","RENAULT","2016","155'000","160","8353 Elgg / ZH"
+"1671221828-263","https://www.autolina.ch/carList/page/3?region=ZH","NISSAN","2022","100","158","8152 Glattpark (Opfikon) / ZH"
+"1671221828-264","https://www.autolina.ch/carList/page/3?region=ZH","AUDI","2016","82'500","95","8196 Wil / ZH"
+"1671221828-265","https://www.autolina.ch/carList/page/3?region=ZH","BMW","2015","143'000","190","8706 Meilen / ZH"
+"1671221828-266","https://www.autolina.ch/carList/page/3?region=ZH","NISSAN","2022","300","140","8304 Wallisellen / ZH"
+"1671221828-267","https://www.autolina.ch/carList/page/3?region=ZH","MERCEDES-BENZ","2017","82'000","194","8633 Wolfhausen / ZH"
+"1671221828-268","https://www.autolina.ch/carList/page/3?region=ZH","SMART","2019","94'700","71","8152 Glattpark (Opfikon) / ZH"
+"1671221828-269","https://www.autolina.ch/carList/page/3?region=ZH","AUDI","2022","5'500","265","8706 Feldmeilen / ZH"
+"1671221828-270","https://www.autolina.ch/carList/page/3?region=ZH","BMW","2018","184'000","265","8048 Zürich / ZH"
+"1671221833-271","https://www.autolina.ch/carList/page/2?region=ZH","TRIUMPH","1971","84'600","60","8478 Thalheim an der Thur / ZH"
+"1671221833-272","https://www.autolina.ch/carList/page/2?region=ZH","FIAT","2018","57'200","180","8340 Hinwil / ZH"
+"1671221833-273","https://www.autolina.ch/carList/page/2?region=ZH","RENAULT","2020","21'900","140","8152 Glattpark (Opfikon) / ZH"
+"1671221833-274","https://www.autolina.ch/carList/page/2?region=ZH","RENAULT","2021","25'500","224","8152 Glattpark (Opfikon) / ZH"
+"1671221833-275","https://www.autolina.ch/carList/page/2?region=ZH","RENAULT","2021","14'900","190","8152 Glattpark (Opfikon) / ZH"
+"1671221833-276","https://www.autolina.ch/carList/page/2?region=ZH","PORSCHE","2018","77'000","440","8820 Wädenswil / ZH"
+"1671221833-277","https://www.autolina.ch/carList/page/2?region=ZH","VW","2017","66'593","150","8057 Zürich / ZH"
+"1671221833-278","https://www.autolina.ch/carList/page/2?region=ZH","FIAT","2015","101'800","140","8712 Stäfa / ZH"
+"1671221833-279","https://www.autolina.ch/carList/page/2?region=ZH","AUDI","2019","34'000","150","8304 Wallisellen / ZH"
+"1671221833-280","https://www.autolina.ch/carList/page/2?region=ZH","CUPRA","2022","2'500","310","8304 Wallisellen / ZH"
+"1671221833-281","https://www.autolina.ch/carList/page/2?region=ZH","BMW","2015","110'000","381","8245 Feuerthalen / ZH"
+"1671221833-282","https://www.autolina.ch/carList/page/2?region=ZH","BMW","2014","230'000","449","8483 Kollbrunn / ZH"
+"1671221833-283","https://www.autolina.ch/carList/page/2?region=ZH","HYUNDAI","2017","38'000","185","8050 Zürich / ZH"
+"1671221833-284","https://www.autolina.ch/carList/page/2?region=ZH","NISSAN","2015","105'000","90","8051 Zürich / ZH"
+"1671221833-285","https://www.autolina.ch/carList/page/2?region=ZH","RENAULT","2021","23'900","300","8152 Glattpark (Opfikon) / ZH"
+"1671221837-286","https://www.autolina.ch/carList/page/1?region=ZH","BMW","2016","65'500","449","8154 Oberglatt / ZH"
+"1671221837-287","https://www.autolina.ch/carList/page/1?region=ZH","MERCEDES-BENZ","2017","188'000","367","8103 Unterengstringen / ZH"
+"1671221837-288","https://www.autolina.ch/carList/page/1?region=ZH","HONDA","null","25","184","8424 Embrach / ZH"
+"1671221837-289","https://www.autolina.ch/carList/page/1?region=ZH","MERCEDES-BENZ","2013","98'000","584","8910 Affoltern am Albis / ZH"
+"1671221837-290","https://www.autolina.ch/carList/page/1?region=ZH","SKODA","2014","63'100","105","8152 Glattpark (Opfikon) / ZH"
+"1671221837-291","https://www.autolina.ch/carList/page/1?region=ZH","SKODA","2017","60'000","180","8712 Stäfa / ZH"
+"1671221837-292","https://www.autolina.ch/carList/page/1?region=ZH","MERCEDES-BENZ","1970","90'000","170","8102 Oberengstringen / ZH"
+"1671221837-293","https://www.autolina.ch/carList/page/1?region=ZH","AUDI","2006","178'000","170","8032 Zürich / ZH"
+"1671221837-294","https://www.autolina.ch/carList/page/1?region=ZH","FIAT","2018","57'900","180","8340 Hinwil / ZH"
+"1671221837-295","https://www.autolina.ch/carList/page/1?region=ZH","HONDA","2018","92'900","120","8152 Glattpark (Opfikon) / ZH"
+"1671221837-296","https://www.autolina.ch/carList/page/1?region=ZH","FORD","2021","11'510","185","8404 Winterthur / ZH"
+"1671221837-297","https://www.autolina.ch/carList/page/1?region=ZH","VW","2018","43'000","150","8610 Uster / ZH"
+"1671221837-298","https://www.autolina.ch/carList/page/1?region=ZH","VW","2010","118'000","240","8180 Bülach / ZH"
+"1671221837-299","https://www.autolina.ch/carList/page/1?region=ZH","FORD","2011","202'000","85","8165 Schöfflisdorf / ZH"
+"1671221837-300","https://www.autolina.ch/carList/page/1?region=ZH","FORD","2018","69'950","125","8196 Wil / ZH"
